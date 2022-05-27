@@ -1,0 +1,40 @@
+body{
+    background: #9cef58;
+    font-family: 'Akaya Telivigala', cursive;
+}
+#heading{
+    background: #1bc3cf;
+    color:rgb(240, 160, 188) ;
+}
+#desc{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(236, 162, 51);
+    font-weight: bold;
+ 
+}
+#start{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+    background-color: rgb(233, 233, 57);
+}
+#Developer {
+    color: #72c967;
+    font-size: 22px;
+    text-align: center;
+    width: 100%;  
+    bottom: 0px;
+    background-color: yellow;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    position : fixed ; 
+}
+#voice{
+    font-size: 25px;
+    color : rgb(220, 61, 201);
+
+}
